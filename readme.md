@@ -30,12 +30,12 @@ $ ante-cli --name=Jane
 The available commands are given below
 
 ### Commands
-  --name:          Your name
-  --help:          Displays the available commands.
+  --name:          Your name\
+  --help:          Displays the available commands.\
   --about:         Displays information about the CLI.
-  --fetch-price:   Provide a binance stock pair to obtain it's current valuation.
-  --upload:        Opens the file explorer to allow uploading csv files only.
-  --draw:          Draws the chart of the specified columns of the file present in the draw-chart directory
+  --fetch-price:   Provide a binance stock pair to obtain it's current valuation.\
+  --upload:        Opens the file explorer to allow uploading csv files only.\
+  --draw:          Draws the chart of the specified columns of the file present in the draw-chart directory\
 
 ***Note: Only the first 3 commands have been implemented in this project. The 'upload' and 'draw' commands are not available in this version.***
 
